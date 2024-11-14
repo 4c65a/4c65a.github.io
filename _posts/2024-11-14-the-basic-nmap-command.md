@@ -1,7 +1,7 @@
 ---
 title: The basic nmap command
 author: 
-date: 2024-11-12 15:00:00 +0000
+date: 2024-11-14 15:00:00 +0000
 categories: [Tutorial,Networks]
 tags: [nmap]
 ---
