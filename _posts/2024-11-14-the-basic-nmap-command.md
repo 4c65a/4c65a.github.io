@@ -5,6 +5,9 @@ date: 2024-11-14 15:00:00 +0000
 categories: [Tutorial,Networks]
 tags: [nmap]
 ---
+
+> ⚠️ **Warning**: Be cautious when performing a network scan.
+
 # What is NMAP?
 
 Nmap is a network scanner , used to discover hosts and services on a computer network. The nmap utility is  used for network port mapping.
